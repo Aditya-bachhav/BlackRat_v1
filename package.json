@@ -1,0 +1,13 @@
+{
+  "name": "blackrat-de",
+  "version": "1.0.0",
+  "description": "BLACK RAT - Collective video sequence animation",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -c-1",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx http-server"
+  },
+  "keywords": ["animation", "video", "sequence"],
+  "author": "",
+  "license": "ISC"
+}
